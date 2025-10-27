@@ -1,0 +1,36 @@
+fataka bazar
+equipment:
+1) ghan sumbha
+2) taar(kataa hua)
+3) paane
+4) pani ka kuppa
+5) 2 ghodi
+6) altuye
+7) kechi 
+
+note:- ek 10 feet ke pipe nishan lagana h, 
+Nishan->(a) 10feet pip ke center me nishan lagana h{bo nishan 5 feet center point pe aayega}
+Nishan->(b) 10feet pip ke dono tarf   nishan lagana h{bo nishan dono corner se  2 feet  chhodke laga na h}
+Nishan->(3) 10feet pip ke dono tarf   nishan lagana h{bo nishan dono corner se  3 feet  chhodke laga na h} iski jagah 3 feet ka pipe bhi use kar sakte h 
+(|)->vertcal takat / (-)-> horizontal takat
+
+
+fataka bazar ki sidhi dukan kese lagate h 
+
+
+1) 2 takat lagana h (jis tarf dukan tirchi karni h us taft vertical takat lagega)
+2) vertical takat se 3 feet pe (dukan ki side wali line pe jamin pe nishalagana h ) [nishan wala pip use kar sakte h]
+3) horizontal takat se 5 feet pe (dukan ki side wali line pe jamin pe nishalagana h ) [nishan wala pip use kar sakte h]
+4) ye dono nishan ko (2)(3) pe sidha 10feet ka pip rakh na h
+5) pip ke just sidese 2-2  feet dono tarf  chod ke gaddhe karna h 
+6) (5) wale point me jo gaddhe kare h un dono ke center me tisra gaddha karna h
+
+
+
+fataka bazar ki trichhi dukan kese lagate h 
+1) 2 takat lagana h (jis tarf dukan tirchi karni h us taft vertical takat lagega)
+2) tirchi dukan me  last wali plate/patiya ko piche wale corner me sahi jagah rakhna h (aisa na ho ko akhri wala patiya  side wali aur piche wali border line se bahar naajaye)
+3) last wali plate/patiya rakh ke 5 feet aage nap ke takat pe aanachahiye (ghodi ka muh rakhne ke liye)
+4) rakhi hue sahi plate ke just side se gaddhe karna h
+5) 2 gaddhe 2 feet corner se andarside 
+6) tirsra gaddha no (5)wale 2 gaddhe ke bich me karna h 
